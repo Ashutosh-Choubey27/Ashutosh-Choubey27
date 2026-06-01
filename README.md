@@ -1,5 +1,15 @@
 # 💫 About Me:
-Completed a full-stack web projects using React, Tailwind, Node.js, Express & MongoDB named "AI BASED SMART PRODUCTIVITY PLANNER" application with JWT authentication and a dark-mode UI <br><br>Currently working on an AI-powered SaaS application called MarkiAI (AI Digital Marketing Head), <br>designed to automate digital marketing workflows for agencies and businesses. The platform leverages AI <br>to perform website and social media audits, generate data-driven marketing strategies, and create SEO-optimized <br>content, while supporting multi-tenant architecture<br> and BYOM (Bring Your Own Model) AI integrations.<br><br>Improving my GitHub profile & README with consistent JavaScript learning content
+
+Full-Stack Developer passionate about building scalable web applications using React, JavaScript, Node.js, Express, MongoDB, and modern cloud technologies.
+
+Recently built and deployed an **AI-Enhanced Hospital Queue Management System**, featuring real-time queue tracking with Socket.io, JWT-based authentication, role-based access control, ML-powered wait-time prediction using FastAPI, and production deployment on Vercel, Render, and MongoDB Atlas.
+
+Previously developed an **AI-Based Smart Productivity Planner** with intelligent task management, smart scheduling, productivity analytics, and modern responsive UI/UX design.
+
+Currently working on **MarkiAI (AI Digital Marketing Head)** — an AI-powered SaaS platform designed to automate digital marketing workflows for agencies and businesses. The platform leverages AI to perform website and social media audits, generate data-driven marketing strategies, create SEO-optimized content, and support multi-tenant architecture with BYOM (Bring Your Own Model) AI integrations.
+
+Currently exploring Docker, AWS, TypeScript, system design, and cloud deployment while continuously improving my GitHub portfolio through real-world projects and consistent JavaScript learning.
+
 
 
 ## 🌐 Socials:
