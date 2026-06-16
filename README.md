@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Location-Ghaziabad,_India-6366F1?style=for-the-badge"/>
 
 <br/>
-
+<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashu_choubey__) <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashutoshchoubey) <br/>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ashutos65704346)<br/>
