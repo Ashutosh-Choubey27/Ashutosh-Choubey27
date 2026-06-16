@@ -315,13 +315,6 @@ Worked in a high-volume technical support environment focused on troubleshooting
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh-Choubey27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -334,14 +327,6 @@ Worked in a high-volume technical support environment focused on troubleshooting
 </div>
 
 ---
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ashutosh-Choubey27/Ashutosh-Choubey27/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
