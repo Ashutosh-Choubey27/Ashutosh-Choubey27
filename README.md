@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashutosh%20Choubey&fontSize=58&fontAlignY=38&color=0:0F172A,35:4F46E5,70:7C3AED,100:A855F7&animation=fadeIn&fontColor=FFFFFF" />
@@ -408,4 +407,3 @@ Open_To:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0F172A,35:4F46E5,70:7C3AED,100:A855F7"/>
 
 </div>
-```
