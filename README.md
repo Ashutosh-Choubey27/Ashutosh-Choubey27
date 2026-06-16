@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/MCA-KIET_Group_of_Institutions-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CGPA-8.2-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-Ghaziabad,_India-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_To-SDE_Roles-A855F7?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:ashutoshch27@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -22,15 +21,8 @@
 <a href="https://github.com/Ashutosh-Choubey27">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ashutosh-Choubey27&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/Ashutosh-Choubey27?style=for-the-badge&color=4F46E5"/>
-<img src="https://img.shields.io/github/stars/Ashutosh-Choubey27?style=for-the-badge&color=A855F7"/>
 
 </div>
 
