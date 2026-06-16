@@ -307,6 +307,11 @@ Worked in a high-volume technical support environment focused on troubleshooting
 
 ---
 
+# Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh-Choubey27/Ashutosh-Choubey27/output/github-contribution-grid-snake-dark.svg"/>
+</div> 
 
 ---
 
