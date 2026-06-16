@@ -11,11 +11,15 @@
 <img src="https://img.shields.io/badge/Location-Ghaziabad,_India-6366F1?style=for-the-badge"/>
 
 <br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashu_choubey__) <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashutoshchoubey) <br/>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ashutos65704346)<br/>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshch27@gmail.com) <br/>
+<br/>
+<img src="https://img.shields.io/badge/MCA-KIET_Group_of_Institutions-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.2-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Ghaziabad,_India-6366F1?style=for-the-badge"/> 
+<br/><br/> 
+<a href="mailto:ashutoshch27@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="https://linkedin.com/in/ashutoshchoubey"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/Ashutosh-Choubey27"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> 
+ <br/><br/>
 
 </div>
 
