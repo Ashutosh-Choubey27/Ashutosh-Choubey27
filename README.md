@@ -12,17 +12,8 @@
 
 <br/>
 
-<a href="mailto:ashutoshch27@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ashutoshchoubey">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Ashutosh-Choubey27">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashu_choubey__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashutoshchoubey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ashutos65704346) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshch27@gmail.com) 
 
 </div>
 
@@ -30,14 +21,15 @@
 
 # About Me
 
-I am a MERN Stack Developer and Software Engineering enthusiast focused on building scalable, production-ready web applications with strong foundations in full stack development, AI-powered systems, cloud deployment, and product engineering.
+Full-Stack Developer passionate about building scalable web applications using React, JavaScript, Node.js, Express, MongoDB, and modern cloud technologies.
 
-I enjoy designing real-world platforms where clean architecture, performance, user experience, security, and business impact come together.
+Recently built and deployed an *AI-Enhanced Hospital Queue Management System*, featuring real-time queue tracking with Socket.io, JWT-based authentication, role-based access control, ML-powered wait-time prediction using FastAPI, and production deployment on Vercel, Render, and MongoDB Atlas.
 
-- Building AI-powered full stack products
-- Strong hands-on experience with React, Node.js, Express, MongoDB, Supabase, Socket.io
-- Exploring AWS, Docker, Kubernetes, System Design, and AI Engineering
-- Open to Software Engineer, Full Stack Developer, and MERN Stack Developer roles
+Previously developed an *AI-Based Smart Productivity Planner* with intelligent task management, smart scheduling, productivity analytics, and modern responsive UI/UX design.
+
+Currently working on *MarkiAI (AI Digital Marketing Head)* — an AI-powered SaaS platform designed to automate digital marketing workflows for agencies and businesses. The platform leverages AI to perform website and social media audits, generate data-driven marketing strategies, create SEO-optimized content, and support multi-tenant architecture with BYOM (Bring Your Own Model) AI integrations.
+
+Currently exploring Docker, AWS, TypeScript, system design, and cloud deployment while continuously improving my GitHub portfolio through real-world projects and consistent JavaScript learning.
 
 ---
 
