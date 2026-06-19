@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ashutosh%20Choubey&fontSize=58&fontAlignY=38&color=0:0F172A,35:4F46E5,70:7C3AED,100:A855F7&animation=fadeIn&fontColor=FFFFFF" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;AI+%2B+Full+Stack+Engineer;Cloud+%7C+DevOps+%7C+Product+Engineering;Building+Scalable+Real-World+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=%3E+Building+Scalable+MERN+Applications;%3E+Engineering+AI-Powered+Products;%3E+Deploying+Cloud-Native+Systems;%3E+Learning+System+Design+%26+DevOps" />
 
 <br/>
 <br/>
@@ -380,8 +378,6 @@ Open_To:
 
 <div align="center">
 
-### Building scalable software that transforms ideas into impactful products.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0F172A,35:4F46E5,70:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:312E81,50:6D28D9,75:7C3AED,100:A855F7&text=Ashutosh%20Choubey&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=62" />
 
 </div>
