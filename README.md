@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/gitHub_banner.png" width="100%" alt="Ashutosh Choubey GitHub Banner" />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=%3E+Building+Scalable+MERN+Applications;%3E+Engineering+AI-Powered+Products;%3E+Deploying+Cloud-Native+Systems;%3E+Learning+System+Design+%26+DevOps" />
 
 <br/>
