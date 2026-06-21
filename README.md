@@ -25,11 +25,11 @@
 
 Full-Stack Developer passionate about building scalable web applications using React, JavaScript, Node.js, Express, MongoDB, and modern cloud technologies.
 
-Recently built and deployed an *AI-Enhanced Hospital Queue Management System*, featuring real-time queue tracking with Socket.io, JWT-based authentication, role-based access control, ML-powered wait-time prediction using FastAPI, and production deployment on Vercel, Render, and MongoDB Atlas.
+Recently built and deployed an <strong> "AI-Enhanced Hospital Queue Management System" </strong>, featuring real-time queue tracking with Socket.io, JWT-based authentication, role-based access control, ML-powered wait-time prediction using FastAPI, and production deployment on Vercel, Render, and MongoDB Atlas.
 
-Previously developed an *AI-Based Smart Productivity Planner* with intelligent task management, smart scheduling, productivity analytics, and modern responsive UI/UX design.
+Previously developed an <strong> "AI-Based Smart Productivity Planner" </strong> with intelligent task management, smart scheduling, productivity analytics, and modern responsive UI/UX design.
 
-Currently working on *MarkiAI (AI Digital Marketing Head)* — an AI-powered SaaS platform designed to automate digital marketing workflows for agencies and businesses. The platform leverages AI to perform website and social media audits, generate data-driven marketing strategies, create SEO-optimized content, and support multi-tenant architecture with BYOM (Bring Your Own Model) AI integrations.
+Currently working on </strong> MarkiAI (AI Digital Marketing Head) </strong> — an AI-powered SaaS platform designed to automate digital marketing workflows for agencies and businesses. The platform leverages AI to perform website and social media audits, generate data-driven marketing strategies, create SEO-optimized content, and support multi-tenant architecture with BYOM (Bring Your Own Model) AI integrations.
 
 Currently exploring Docker, AWS, TypeScript, system design, and cloud deployment while continuously improving my GitHub portfolio through real-world projects and consistent JavaScript learning.
 
@@ -382,6 +382,6 @@ Open_To:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:312E81,50:6D28D9,75:7C3AED,100:A855F7&text=Ashutosh%20Choubey&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:020617,25:312E81,50:6D28D9,75:7C3AED,100:A855F7&text=Ashutosh%20Choubey&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=92" />
 
 </div>
