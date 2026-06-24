@@ -382,6 +382,6 @@ Open_To:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:020617,25:312E81,50:6D28D9,75:7C3AED,100:A855F7&text=Ashutosh%20Choubey&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=62&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=92" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,25:312E81,50:6D28D9,75:7C3AED,100:A855F7&text=Ashutosh%20Choubey&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=72&desc=MERN%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=92" />
 
 </div>
